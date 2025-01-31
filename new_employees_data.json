@@ -1,0 +1,42 @@
+[
+    {
+        "employee_id": 101,
+        "name": "John Doe",
+        "age": 30,
+        "department": "Engineering",
+        "position": "Software Developer",
+        "salary": 85000,
+        "hire_date": "2015-06-12",
+        "full_time": true
+    },
+    {
+        "employee_id": 102,
+        "name": "Jane Smith",
+        "age": 28,
+        "department": "Marketing",
+        "position": "Marketing Manager",
+        "salary": 75000,
+        "hire_date": "2017-04-22",
+        "full_time": true
+    },
+    {
+        "employee_id": 103,
+        "name": "Emily Johnson",
+        "age": 35,
+        "department": "HR",
+        "position": "HR Specialist",
+        "salary": 65000,
+        "hire_date": "2012-09-15",
+        "full_time": false
+    },
+    {
+        "employee_id": 104,
+        "name": "Michael Brown",
+        "age": 42,
+        "department": "Sales",
+        "position": "Sales Executive",
+        "salary": 90000,
+        "hire_date": "2020-01-05",
+        "full_time": true
+    }
+]

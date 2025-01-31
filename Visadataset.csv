@@ -1,0 +1,16 @@
+case_id,continent,education_of_employee,has_job_experience,requires_job_training,no_of_employees,yr_of_estab,region_of_employment,prevailing_wage,unit_of_wage,full_time_position,case_status
+EZYV01,Asia,High School,N,N,14513,2007,West,592.2029,Hour,Y,Denied
+EZYV02,Asia,Master's,Y,N,2412,2002,Northeast,83425.65,Year,Y,Certified
+EZYV03,Asia,Bachelor's,N,Y,44444,2008,West,122996.86,Year,Y,Denied
+EZYV04,Asia,Bachelor's,N,N,98,1897,West,83434.03,Year,Y,Denied
+EZYV05,Africa,Master's,Y,N,1082,2005,South,149907.39,Year,Y,Certified
+EZYV06,Asia,Master's,Y,N,2339,2012,South,78252.14,Year,Y,Certified
+EZYV07,Asia,Bachelor's,N,N,4985,1994,South,53635.39,Year,Y,Certified
+EZYV08,North America,Bachelor's,Y,N,3035,1924,West,418.2298,Hour,Y,Denied
+EZYV09,Asia,Bachelor's,N,N,4810,2012,Midwest,74362.19,Year,Y,Certified
+EZYV10,Europe,Doctorate,Y,N,2251,1995,South,67514.76,Year,Y,Certified
+EZYV11,Asia,Master's,N,N,2465,2004,Midwest,83588.56,Year,Y,Certified
+EZYV12,Asia,High School,Y,N,4069,2005,Northeast,70813.09,Year,Y,Denied
+EZYV13,Asia,Bachelor's,Y,N,123876,1963,Northeast,28663.05,Year,Y,Certified
+EZYV14,Asia,Bachelor's,Y,N,1652,2007,Midwest,107196.03,Year,Y,Certified
+EZYV25481,Africa,Master,Y,N,75,2015,South,75000.0,Year,N,Certified
