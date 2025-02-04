@@ -1,0 +1,11 @@
+Different modes used when opening a file in Python:
+
+- 'r': Read (default). Opens the file for reading. The file must exist.
+- 'w': Write. Opens the file for writing. If the file exists, it’s truncated (i.e., cleared before writing). If the file doesn’t exist, it will be created.
+- 'a': Append. Opens the file for writing, but doesn’t truncate it. Data is written at the end of the file. If the file doesn't exist, it's created.
+- 'x': Exclusive creation. Opens the file for writing but fails if the file already exists.
+- 'b': Binary. Used to open a file in binary mode (e.g., 'rb' or 'wb'). It means you're working with raw bytes, not text.
+- 't': Text (default). Used to open a file in text mode (e.g., 'rt' or 'wt'), which is usually the default mode and deals with strings rather than bytes.
+- 'r+': Read/write. Opens the file for both reading and writing. The file must exist.
+- 'w+': Write/read. Opens the file for both reading and writing, truncating the file first (if it exists).
+- 'a+': Append/read. Opens the file for both reading and appending. It will create the file if it doesn't exist.
